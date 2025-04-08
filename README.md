@@ -18,9 +18,8 @@ This project showcases a dynamic Power BI dashboard built to manage and monitor 
 
 ## 🖼️ Dashboard Screenshots
 
-### Full Dashboard
-Screenshots/Dashboard-overview.png
-[Dashboard Overview](screenshots/Dashboard-overview.png)
+## 🖼️ Dashboard Overview
+![Dashboard](screenshots/dashboard-overview.png)
 
 ### Hazard Class Breakdown
 ![Hazards](screenshots/hazard-breakdown.png)
