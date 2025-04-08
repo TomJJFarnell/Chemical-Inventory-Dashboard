@@ -18,17 +18,25 @@ This project showcases a dynamic Power BI dashboard built to manage and monitor 
 
 
 ## 🖼️ Dashboard Overview
+This Power BI dashboard provides a clear and interactive view of a large chemical inventory, designed for use in a science department or laboratory setting. It includes visual summaries of hazard classifications, chemical stock levels, expiry tracking, and supplier distribution.
+
 ![Dashboard](Screenshots/dashboard-overview.png)
 
-### 
+
+
+### Filtering for Flammble Chemicals 
+This view demonstrates the use of interactive filters to isolate all chemicals classified as *Flammable*. It allows users to focus on substances with specific hazards and helps ensure proper storage and handling according to COSHH guidelines.
 ![Dashboard](Screenshots/Dashboard-(All-Flamables).png)
 
-### Expiry Alerts
-![Expiry](screenshots/expiry-alerts.png)
+### Filtering for Chem Store Location 
+This filtered view shows only the chemicals located in the **Chem Store**. The location-based filtering makes it easy to conduct physical stock checks, identify storage risks, and manage audit readiness.
+
+![Dashboard](Screenshots/Dashboard-(FilterChem-Store).png)
+
 
 ## 📁 Files Included
 
-- Chemical-Inventroy-Dashboard.pbix - the Power BI dashboard file
+[📥 Download Chemical-Inventory-Dashboard.pbix](Chemical-Inventory-Dashboard.pbix) - the Power BI dashboard file
 - `data/example_chemical_data.csv` – sample (anonymised) dataset
 - `screenshots/` – visuals from the dashboard
 
