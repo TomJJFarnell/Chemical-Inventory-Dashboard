@@ -19,7 +19,7 @@ This project showcases a dynamic Power BI dashboard built to manage and monitor 
 ## 🖼️ Dashboard Screenshots
 
 ## 🖼️ Dashboard Overview
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](Screenshots/dashboard-overview.png)
 
 ### Hazard Class Breakdown
 ![Hazards](screenshots/hazard-breakdown.png)
@@ -29,7 +29,7 @@ This project showcases a dynamic Power BI dashboard built to manage and monitor 
 
 ## 📁 Files Included
 
-- `chemical_inventory.pbix` – the Power BI dashboard file
+- Chemical-Inventroy-Dashboard.pbix - the Power BI dashboard file
 - `data/example_chemical_data.csv` – sample (anonymised) dataset
 - `screenshots/` – visuals from the dashboard
 
