@@ -37,7 +37,9 @@ This filtered view shows only the chemicals located in the **Chem Store**. The l
 ## 📁 Files Included
 
 [📥 Download Chemical-Inventory-Dashboard.pbix](Chemical-Inventory-Dashboard.pbix) - the Power BI dashboard file
-[📥 Download Chemical-Inventory Data](Data/Chemical inventory 2025 (Redacted).xlsx) - the excel inventory 
+
+[📥 Download Chemical-Inventory Data](Data/Chemical-inventory-2025-(Redacted).xlsx) - the excel inventory 
+
 [📥 Download Sceenshots](Screenshots) - screenshots of the dashboard in action
 
 Screenshots
