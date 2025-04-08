@@ -16,13 +16,12 @@ This project showcases a dynamic Power BI dashboard built to manage and monitor 
 - Excel for data preparation
 - GHS data and COSHH classification references
 
-## 🖼️ Dashboard Screenshots
 
 ## 🖼️ Dashboard Overview
 ![Dashboard](Screenshots/dashboard-overview.png)
 
-### Hazard Class Breakdown
-![Hazards](screenshots/hazard-breakdown.png)
+### 
+![Dashboard](Screenshots/Dashboard-(All-Flamables).png)
 
 ### Expiry Alerts
 ![Expiry](screenshots/expiry-alerts.png)
